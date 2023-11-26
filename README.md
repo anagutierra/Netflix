@@ -1,2 +1,2 @@
 # Netflix
-<a href="https://anagutierra.github.io/Netflix/netflix">Acesse o site</a>
+<a href="https://anagutierra.github.io/Netflix">Acesse o site</a>
